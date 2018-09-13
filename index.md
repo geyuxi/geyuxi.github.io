@@ -4,4 +4,6 @@
 
 > [我的GitHub](https://github.com/geyuxi).
 
+> [我的Codeforces](http://codeforces.com/profile/Yuxi).
+
 > 我的邮箱：geyuxi@t.shu.edu.cn
