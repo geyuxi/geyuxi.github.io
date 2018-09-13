@@ -1,16 +1,7 @@
----
-layout: default
----
+#个人主页
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+> [我的博客](https://www.geyuxi.com/).（暂时无法访问）
 
-[baidu](https://www.baidu.com/).
-# 关于我
+> [我的GitHub](https://github.com/geyuxi).
 
-[我的博客](https://www.geyuxi.com/).
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
+> 我的邮箱：geyuxi@t.shu.edu.cn
