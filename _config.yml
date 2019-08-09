@@ -22,7 +22,7 @@ authors:
     sal:
       name:           草曷
       site:           https://www.ohu.me
-      avatar:         /assets/images/avatar1.jpg
+      avatar:         assets/images/avatar1.jpg
       bio:            "你好，我是草曷"
       email:          geyuxi@t.shu.edu.cn
       #twitter:        https://twitter.com/wowthemesnet
