@@ -622,7 +622,7 @@ ol.list-categories {
 ol.list-categories li {
 	counter-increment:my-awesome-counter;
 	display:flex;
-	font-size:0.4rem;
+	font-size:0.8rem;
 }
 ol.list-categories li:before {
     content: "0" counter(my-awesome-counter);
@@ -662,6 +662,9 @@ footer {
 }
 .sticky-top-offset {
 	top:70px;
+}
+.sticky-top-offset2 {
+	top:50px;
 }
 .homefirstpage .main-loop .main-loop-card:nth-child(-n+5) {
 	display:none !important;
